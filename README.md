@@ -1,2 +1,2 @@
-# Courses-Dashpord
-Courses Dashpord(using Excel)
+# Courses-Dashboard
+Courses Sales Dashpord(using Excel)
